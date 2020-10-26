@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/sda2/projects/cpp projects/webcam/src/webcam.cpp
+webcam.hpp
+/mnt/sda2/projects/cpp projects/webcam/src/webcam.hpp
+
+/mnt/sda2/projects/cpp projects/webcam/src/webcam.hpp
+opencv2/opencv.hpp
+-
+stdio.h
+-
+iostream
+-
+

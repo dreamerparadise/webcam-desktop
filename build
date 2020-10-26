@@ -1,0 +1,8 @@
+#!/bin/sh
+
+###
+# Build file to build my webcam
+###
+
+cmake .
+make

@@ -1,0 +1,3 @@
+/mnt/sda2/projects/cpp projects/webcam/CMakeFiles/rebuild_cache.dir
+/mnt/sda2/projects/cpp projects/webcam/CMakeFiles/edit_cache.dir
+/mnt/sda2/projects/cpp projects/webcam/CMakeFiles/webcam.dir
