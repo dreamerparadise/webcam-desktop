@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/mnt/sda2/projects/cpp projects/webcam/src/webcam.cpp
-webcam.hpp
-/mnt/sda2/projects/cpp projects/webcam/src/webcam.hpp
-
-/mnt/sda2/projects/cpp projects/webcam/src/webcam.hpp
+/mnt/sda2/projects/cpp projects/webcam/src/Defination.hpp
 opencv2/opencv.hpp
 -
-stdio.h
--
-iostream
--
+
+/mnt/sda2/projects/cpp projects/webcam/src/WebCam.hpp
+Defination.hpp
+/mnt/sda2/projects/cpp projects/webcam/src/Defination.hpp
+
+/mnt/sda2/projects/cpp projects/webcam/src/main.cpp
+WebCam.hpp
+/mnt/sda2/projects/cpp projects/webcam/src/WebCam.hpp
 

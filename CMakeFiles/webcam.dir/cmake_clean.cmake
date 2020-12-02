@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/webcam.dir/src/webcam.cpp.o"
+  "CMakeFiles/webcam.dir/src/WebCam.cpp.o"
+  "CMakeFiles/webcam.dir/src/main.cpp.o"
   "webcam"
   "webcam.pdb"
 )

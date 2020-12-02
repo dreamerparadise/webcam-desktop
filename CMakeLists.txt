@@ -6,5 +6,9 @@ set(CMAKE_CXX_STANDARD 11)
 include_directories(${OpenCV_INCLUDE_DIRS})
 
 find_package(OpenCV REQUIRED)
-add_executable(webcam src/webcam.cpp)
+
+file( GLOB APP_SOURCES src/*.cpp )
+
+add_executable(webcam ${APP_SOURCES})
+
 target_link_libraries(webcam ${OpenCV_LIBS})

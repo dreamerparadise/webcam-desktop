@@ -4,7 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/sda2/projects/cpp projects/webcam/src/webcam.cpp" "/mnt/sda2/projects/cpp projects/webcam/CMakeFiles/webcam.dir/src/webcam.cpp.o"
+  "/mnt/sda2/projects/cpp projects/webcam/src/WebCam.cpp" "/mnt/sda2/projects/cpp projects/webcam/CMakeFiles/webcam.dir/src/WebCam.cpp.o"
+  "/mnt/sda2/projects/cpp projects/webcam/src/main.cpp" "/mnt/sda2/projects/cpp projects/webcam/CMakeFiles/webcam.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
